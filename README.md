@@ -1,3 +1,7 @@
+<h1 align="center">
+  <img src="https://github.com/mahinvora04/my-portfolio/assets/banner.png" alt="Banner Image" />
+</h1>
+
 <h1 align="center">Hi 👋, I'm Mahin</h1>
 <h3 align="center">I’m a 5th-semester Computer Engineering student at LJ University, passionate about tech and constantly learning to expand my expertise.</h3>
 
