@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://github.com/mahinvora04/my-portfolio/assets/banner.png" alt="Banner Image" />
+  <img src="https://github.com/Mahinvora04/my-portfolio/blob/main/assets/imgs/banner_image_copy.png" alt="Banner Image" />
 </h1>
 
 <h1 align="center">Hi 👋, I'm Mahin</h1>
