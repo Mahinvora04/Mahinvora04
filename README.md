@@ -65,6 +65,9 @@
   - Technologies Used: React.js, Django, MongoDB, HTML, CSS, JavaScript, Bootstrap
   - Description: Developed a comprehensive website for Quest Computing, featuring a customer side to view and inquire about laptops, and an admin side with authentication       for managing laptop listings. Customers can browse detailed laptop information and contact the store via a form. Admins have secure login and password recovery options,      along with functionalities to add and delete laptops from the inventory. Ensured a responsive and user-friendly experience across both sides.
 
+- **Project 4**: [Amazon Clone](https://am-a-zon.netlify.app/)
+  - Technologies Used: HTML, CSS, JavaScript, Bootstrap
+  - Description:  A frontend clone of Amazon built with HTML, CSS, Bootstrap, and JavaScript. This project replicates the look and feel of Amazon's website to practice frontend development skills.
 
 ---
 
