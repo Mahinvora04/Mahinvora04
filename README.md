@@ -52,11 +52,20 @@
   Here are some of my projects that I've deployed. Click on the links to explore!
 </p>
 
-- **Project 1**: [Indiameter: Travel Website](https://indiameter.netlify.app)  
-  Description: Indiameter is a user-friendly travel website that connects users with information and services related to destinations across India. This project features an    interactive user interface, dynamic content for a seamless booking experience. Built with a tech stack of React, Django, and MongoDB, Indiameter focuses on a responsive      design to ensure accessibility on various devices.
+- **Project 1**: [Indiameter: Travel Website](https://indiameter.netlify.app)
+  - Technologies Used: React.js, Django, MongoDB, HTML, CSS, JavaScript, Bootstrap
+  - Description: Indiameter is a user-friendly travel website that connects users with information and services related to destinations across India. This project features   
+    an interactive user interface, dynamic content for a seamless booking experience. Built with a tech stack of React, Django, and MongoDB, Indiameter focuses on a 
+    responsive design to ensure accessibility on various devices.
 
-- **Project 2**: [Jazleen Beauty & Art Institute](https://jazleeninstitute.netlify.app)  
-  Description: The Jazleen Beauty & Art Institute website is a vibrant platform showcasing beauty, dance, and artistic classes for aspiring students. This project includes a   dedicated admin panel to manage content such as course offerings and gallery updates, all without the use of a traditional database. Developed with React and Django, the     website features animations, neon-inspired aesthetics, and interactive elements to enhance user engagement and create a visually captivating experience.
+- **Project 2**: [Jazleen Beauty & Art Institute](https://jazleeninstitute.netlify.app)
+  - Technologies Used: React.js, Django, MongoDB, HTML, CSS, JavaScript, Bootstrap
+  - Description: The Jazleen Beauty & Art Institute website is a vibrant platform showcasing beauty, dance, and artistic classes for aspiring students. This project includes     a dedicated admin panel to manage content such as course offerings and gallery updates, all without the use of a traditional database. Developed with React and Django,       the website features animations, neon-inspired aesthetics, and interactive elements to enhance user engagement and create a visually captivating experience.
+
+- **Project 3**: [Quest Computing & Laptop Store](https://questcomputing.netlify.app)
+  - Technologies Used: React.js, Django, MongoDB, HTML, CSS, JavaScript, Bootstrap
+  - Description: Developed a comprehensive website for Quest Computing, featuring a customer side to view and inquire about laptops, and an admin side with authentication       for managing laptop listings. Customers can browse detailed laptop information and contact the store via a form. Admins have secure login and password recovery options,      along with functionalities to add and delete laptops from the inventory. Ensured a responsive and user-friendly experience across both sides.
+
 
 ---
 
