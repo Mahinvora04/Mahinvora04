@@ -54,8 +54,7 @@
 
 - **Project 1**: [Indiameter: Travel Website](https://indiameter.netlify.app)
   - Technologies Used: React.js, Django, MongoDB, HTML, CSS, JavaScript, Bootstrap
-  - Description: Indiameter is a user-friendly travel website that connects users with information and services related to destinations across India. This project features   
-    an interactive user interface, dynamic content for a seamless booking experience. Built with a tech stack of React, Django, and MongoDB, Indiameter focuses on a 
+  - Description: Indiameter is a user-friendly travel website that connects users with information and services related to destinations across India. This project features an interactive user interface, dynamic content for a seamless booking experience. Built with a tech stack of React, Django, and MongoDB, Indiameter focuses on a 
     responsive design to ensure accessibility on various devices.
 
 - **Project 2**: [Jazleen Beauty & Art Institute](https://jazleeninstitute.netlify.app)
