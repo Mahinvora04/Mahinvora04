@@ -1,16 +1,11 @@
 <h1 align="center">Hi 👋, I'm Mahin</h1>
 <h3 align="center">I’m a 5th-semester Computer Engineering student at LJ University, passionate about tech and constantly learning to expand my expertise.</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mahinvora04&label=Profile%20views&color=0e75b6&style=flat" alt="mahinvora04" />
-</p>
-
 ---
 
 <h2 align="left">🔗 Connect with me:</h2>
 <p align="center">
   <a href="https://linkedin.com/in/mahinvora" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mahinvora" height="30" width="40" /></a>
-  <a href="https://instagram.com/mahinvora99" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mahinvora99" height="30" width="40" /></a>
   <a href="mailto:mahinsabbirhusen@gmail.com" target="_blank">
   <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="mahinsabbirhusen@gmail.com" height="30" width="40" />
 </a>
