@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mahin</h1>
-<h3 align="center">I’m a 7th-semester Computer Engineering student at LJ University, passionate about tech and constantly learning to expand my expertise.</h3>
+<h3 align="center">I’m a 8th-semester Computer Engineering student at LJ University, passionate about tech and constantly learning to expand my expertise.</h3>
 
 ---
 
